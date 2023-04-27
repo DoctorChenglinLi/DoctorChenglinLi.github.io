@@ -6,6 +6,18 @@ permalink: /publication/
 years: [2016, 2017, 2018, 2019, 2020, 2021]
 ---
 
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FVPVC7H07M"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-FVPVC7H07M');
+    </script>
+</head>
+
 <style>
 .jumbotron{
     padding:3%;
