@@ -34,7 +34,6 @@ nav_pages:
   - name: award
   - name: miscellanea
   - name: gallery
-  - name: contact
 
 include:
   - .htaccess
