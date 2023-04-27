@@ -55,6 +55,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 2. J. Wang, <u>C. Li</u>, and S. Chen<sup>\*</sup>, "Design of a High-speed Oscillating Blade Microtome", *Proceedings of the Annual Meeting of the ASPE*, Charlotte, NC, USA, Oct. 2017, pp. 412-6.
 
 1. <u>C. Li</u>, J. Wang, and S. Chen<sup>\*</sup>, "Design of a Flexure-based Dynamic-tunable Five-axis Nanopositioner", *Proceedings of the Annual Meeting of the ASPE*, Boston, MA, USA, Nov. 2014, pp. 153-7.
+{: reversed="reversed"}
 
 ## Patent
 3. S. Chen, J. Wang, and <u>C. Li</u>, "Microtome", *U.S. Patent*, No. 10,603,688, Mar 31st, 2020.
@@ -65,5 +66,6 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 1. S. Chen, <u>C. Li</u>, and J. Wang, "Method and Apparatus for Dynamic Tuning", *U.S. Patent*, No. 9,527,733, Dec 27th, 2016.
 [@Patent](https://patents.google.com/patent/US9527733B2/en){:target="_blank"}
+{: reversed="reversed"}
 
 _<sup>&dagger;</sup> denotes co-first authorship; <sup>\*</sup> denotes corresponding authorship._
