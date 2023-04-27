@@ -14,28 +14,10 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
     margin-top:10px;
     margin-bottom:30px;
 }
-.reverse-list {
-  list-style: none;
-  counter-reset: item;
-}
-.reverse-list li:before {
-  content: counter(item);
-  counter-increment: item;
-  float: left;
-  margin-right: 5px;
-}
-.reverse-list li {
-  display: block;
-  margin-bottom: 10px;
-}
-.reversed {
-  display: flex;
-  flex-direction: column-reverse;
-}
 </style>
 
 ## Journal Publication
-<ol class="reversed reverse-list">
+<ol reversed="reversed">
 <li><u>C. Li</u><sup>\*</sup> and S. Chen<sup>\*</sup>, "Design of Compliant Mechanisms based on Compliant Building Elements. Part I: Principles", *Precision Engineering*, Vol. 81, pp. 207-20, 2023.
 [@Paper](https://www.sciencedirect.com/science/article/pii/S0141635923000065){:target="_blank"}
 </li>
