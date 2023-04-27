@@ -59,7 +59,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 </li>
 <li>N. Luo, W. Dai, <u>C. Li</u>, Z. Zhou, L. Lu, C.C.Y. Poon, S. Chen, Y. Zhang, and N. Zhao<sup>\*</sup>, "Flexible Piezoresistive Sensor Patch Enabling Ultralow Power Cuffless Blood Pressure Measurement", *Advanced Functional Materials*, Vol. 26, No. 8, pp. 1178-87, 2016.
 [@Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201504560){:target="_blank"}
-</li>
+</li></ol>
 ## Conference Publication
 6. <u>C. Li</u>, X. Liu, and S. Chen<sup>\*</sup>, "Design of a Six-axis Parallel Nanopositioner Using Decoupled Flexural Legs", *Proceedings of the Annual Meeting of the ASPE*, Pittsburg, PA, USA, Oct. 2019, pp. 422-6.
 
