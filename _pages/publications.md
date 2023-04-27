@@ -16,16 +16,23 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 }
 </style>
 
-_<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
+_<sup>&dagger;</sup> denotes co-first authorship; <sup>\*</sup> denotes corresponding authorship._
 
 ## Journal
 
 ## Conference
-21. Zhong, F., **_Wang, Z._**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Int. Conf. Robotics and Automation (ICRA), presented, 2020.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8963603/){:target="_blank"}{% endif %}
+C.6	<u>C. Li</u>, X. Liu, and S. Chen<sup>\*</sup>, "Design of a Six-axis Parallel Nanopositioner Using Decoupled Flexural Legs", *Proceedings of the Annual Meeting of the ASPE*, Pittsburg, PA, USA, Oct. 2019, pp. 422-6.
 
+C.5	X. Liu, <u>C. Li</u>, H. Li, X. Wang, and S. Chen<sup>\*</sup>, "Deep Learning-based Precision Control for Six-axis Compliant Nanopositioner", *Proceedings of the Annual Meeting of the ASPE*, Pittsburg, PA, USA, Oct. 2019, pp. 139-44.
 
+C.4	Y. Meng, W. Lin, J. Chen, <u>C. Li</u>, S. Chen<sup>\*</sup>, "Fast Two-snapshot Structured Illumination for Wide-field Two-photon Microscopy with Enhanced Axial Resolution and Signal-to-noise Ratio", *CLEO: Applications and Technology*, Optical Society of America, May 2019, pp. AM3I-6.
+[@Paper](https://ieeexplore.ieee.org/abstract/document/8749995){:target="_blank"}
 
+C.3	<u>C. Li</u> and S. Chen<sup>\*</sup>, "A Flexure-based Multi-layer Roll-to-roll Printing System", *Proceedings of the Annual Meeting of the ASPE*, Charlotte, NC, USA, Oct. 2017, pp. 393-7.
+
+C.2	J. Wang, <u>C. Li</u>, and S. Chen<sup>\*</sup>, "Design of a High-speed Oscillating Blade Microtome", *Proceedings of the Annual Meeting of the ASPE*, Charlotte, NC, USA, Oct. 2017, pp. 412-6.
+
+C.1	<u>C. Li</u>, J. Wang, and S. Chen<sup>\*</sup>, "Design of a Flexure-based Dynamic-tunable Five-axis Nanopositioner", *Proceedings of the Annual Meeting of the ASPE*, Boston, MA, USA, Nov. 2014, pp. 153-7.
 
 ## Patent
 P.3	S. Chen, J. Wang, and <u>C. Li</u>, "Microtome", *U.S. Patent*, No. 10,603,688, Mar 31st, 2020.
