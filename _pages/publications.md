@@ -17,30 +17,31 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 </style>
 
 ## Journal Publication
-8. <u>C. Li</u><sup>\*</sup> and S. Chen<sup>\*</sup>, "Design of Compliant Mechanisms based on Compliant Building Elements. Part I: Principles", *Precision Engineering*, Vol. 81, pp. 207-20, 2023.
+<ol class="reversed reverse-list">
+<li><u>C. Li</u><sup>\*</sup> and S. Chen<sup>\*</sup>, "Design of Compliant Mechanisms based on Compliant Building Elements. Part I: Principles", *Precision Engineering*, Vol. 81, pp. 207-20, 2023.
 [@Paper](https://www.sciencedirect.com/science/article/pii/S0141635923000065){:target="_blank"}
-
-7. <u>C. Li</u><sup>\*</sup> and S. Chen<sup>\*</sup>, "Design of Compliant Mechanisms based on Compliant Building Elements. Part II: Practice", *Precision Engineering*, Vol. 81, pp. 8-21, 2023.
+</li>
+<li><u>C. Li</u><sup>\*</sup> and S. Chen<sup>\*</sup>, "Design of Compliant Mechanisms based on Compliant Building Elements. Part II: Practice", *Precision Engineering*, Vol. 81, pp. 8-21, 2023.
 [@Paper](https://www.sciencedirect.com/science/article/pii/S0141635923000053){:target="_blank"}
-
-6. <u>C. Li</u>, H. Xu, and S. Chen<sup>\*</sup>, "Design of a Precision Multi-layer Roll-to-roll Printing System", *Precision Engineering*, Vol. 66, pp. 564-76, 2020.
+</li>
+<li><u>C. Li</u>, H. Xu, and S. Chen<sup>\*</sup>, "Design of a Precision Multi-layer Roll-to-roll Printing System", *Precision Engineering*, Vol. 66, pp. 564-76, 2020.
 [@Paper](https://www.sciencedirect.com/science/article/pii/S0141635920304906){:target="_blank"}
-
-5. J. Wang, <u>C. Li</u>, and S. Chen<sup>\*</sup>, "Sectioning Soft Materials with an Oscillating Blade", *Precision Engineering*, Vol. 56, pp. 96-100, 2019.
+</li>
+<li>J. Wang, <u>C. Li</u>, and S. Chen<sup>\*</sup>, "Sectioning Soft Materials with an Oscillating Blade", *Precision Engineering*, Vol. 56, pp. 96-100, 2019.
 [@Paper](https://www.sciencedirect.com/science/article/pii/S0141635918304902){:target="_blank"}
-
-4. X. Fan, Y. Huang, X. Ding, N. Luo, <u>C. Li</u>, N. Zhao<sup>\*</sup>, and S. Chen<sup>\*</sup>, "Alignment-free Liquid Capsule Pressure Sensor for Cardiovascular Monitoring", *Advanced Functional Materials*, Vol. 28, No. 44, pp. 1805045, 2018.
+</li>
+<li>X. Fan, Y. Huang, X. Ding, N. Luo, <u>C. Li</u>, N. Zhao<sup>\*</sup>, and S. Chen<sup>\*</sup>, "Alignment-free Liquid Capsule Pressure Sensor for Cardiovascular Monitoring", *Advanced Functional Materials*, Vol. 28, No. 44, pp. 1805045, 2018.
 [@Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201805045){:target="_blank"}
-
-3. Y. Meng, W. Lin, <u>C. Li</u>, and S. Chen<sup>\*</sup>, "Fast Two-snapshot Structured Illumination for Temporal Focusing Microscopy with Enhanced Axial Resolution", *Optics Express*, Vol. 25, No.19, pp. 23109-21, 2017.
+</li>
+<li>Y. Meng, W. Lin, <u>C. Li</u>, and S. Chen<sup>\*</sup>, "Fast Two-snapshot Structured Illumination for Temporal Focusing Microscopy with Enhanced Axial Resolution", *Optics Express*, Vol. 25, No.19, pp. 23109-21, 2017.
 [@Paper](https://opg.optica.org/abstract.cfm?uri=oe-25-19-23109){:target="_blank"}
-
-2. <u>C. Li</u>, J. Wang, and S. Chen<sup>\*</sup>, "Flexure-based Dynamic-tunable Five-axis Nanopositioner for Parallel Nanomanufacturing", *Precision Engineering*, Vol. 45, pp. 423-34, 2016.
+</li>
+<li><u>C. Li</u>, J. Wang, and S. Chen<sup>\*</sup>, "Flexure-based Dynamic-tunable Five-axis Nanopositioner for Parallel Nanomanufacturing", *Precision Engineering*, Vol. 45, pp. 423-34, 2016.
 [@Paper](https://www.sciencedirect.com/science/article/pii/S0141635916300216){:target="_blank"}
-
-1. N. Luo, W. Dai, <u>C. Li</u>, Z. Zhou, L. Lu, C.C.Y. Poon, S. Chen, Y. Zhang, and N. Zhao<sup>\*</sup>, "Flexible Piezoresistive Sensor Patch Enabling Ultralow Power Cuffless Blood Pressure Measurement", *Advanced Functional Materials*, Vol. 26, No. 8, pp. 1178-87, 2016.
+</li>
+<li>N. Luo, W. Dai, <u>C. Li</u>, Z. Zhou, L. Lu, C.C.Y. Poon, S. Chen, Y. Zhang, and N. Zhao<sup>\*</sup>, "Flexible Piezoresistive Sensor Patch Enabling Ultralow Power Cuffless Blood Pressure Measurement", *Advanced Functional Materials*, Vol. 26, No. 8, pp. 1178-87, 2016.
 [@Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201504560){:target="_blank"}
-
+</li>
 ## Conference Publication
 6. <u>C. Li</u>, X. Liu, and S. Chen<sup>\*</sup>, "Design of a Six-axis Parallel Nanopositioner Using Decoupled Flexural Legs", *Proceedings of the Annual Meeting of the ASPE*, Pittsburg, PA, USA, Oct. 2019, pp. 422-6.
 
