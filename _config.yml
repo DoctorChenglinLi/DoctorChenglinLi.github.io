@@ -20,11 +20,11 @@ affiliation: >
     The Chinese University of Hong Kong
 
 location: >
-  The Chinese University of Hong Kong<br/>
-  Shatin, N.T., Hong Kong
+  The Chinese University of Hong Kong, Shatin, N.T., Hong Kong
+  
 
 contact: >
-    <a href="mailto:chenglinli@cuhk.edu.hk" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Chenglin via email</a> <br/>
+    <a href="mailto:chenglinli@cuhk.edu.hk" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Chenglin via email</a>
 
 # Pages shown in navbar
 nav_pages:
