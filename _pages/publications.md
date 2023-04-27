@@ -17,7 +17,6 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 </style>
 
 ## Journal Publication
-<ol reversed="reversed">
 8. <u>C. Li</u><sup>\*</sup> and S. Chen<sup>\*</sup>, "Design of Compliant Mechanisms based on Compliant Building Elements. Part I: Principles", *Precision Engineering*, Vol. 81, pp. 207-20, 2023.
 [@Paper](https://www.sciencedirect.com/science/article/pii/S0141635923000065){:target="_blank"}
     
