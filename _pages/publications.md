@@ -56,22 +56,22 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
     
 ## Conference Publication
 6. <u>C. Li</u>, X. Liu, and S. Chen<sup>\*</sup>, "Design of a Six-axis Parallel Nanopositioner Using Decoupled Flexural Legs", *Proceedings of the Annual Meeting of the ASPE*, Pittsburg, PA, USA, Oct. 2019, pp. 422-6.
-[@Paper]({{site.url}}/papers/ASPE_2019_Li.pdf){:target="_blank"}
+[@Paper](/papers/ASPE_2019_Li.pdf){:target="_blank"}
 
 5. X. Liu, <u>C. Li</u>, H. Li, X. Wang, and S. Chen<sup>\*</sup>, "Deep Learning-based Precision Control for Six-axis Compliant Nanopositioner", *Proceedings of the Annual Meeting of the ASPE*, Pittsburg, PA, USA, Oct. 2019, pp. 139-44.
-[@Paper]({{site.url}}/papers/ASPE_2019_Liu.pdf){:target="_blank"}
+[@Paper](/papers/ASPE_2019_Liu.pdf){:target="_blank"}
 
 4. Y. Meng, W. Lin, J. Chen, <u>C. Li</u>, S. Chen<sup>\*</sup>, "Fast Two-snapshot Structured Illumination for Wide-field Two-photon Microscopy with Enhanced Axial Resolution and Signal-to-noise Ratio", *CLEO: Applications and Technology*, Optical Society of America, May 2019, pp. AM3I-6.
 [@Paper](https://ieeexplore.ieee.org/abstract/document/8749995){:target="_blank"}
 
 3. <u>C. Li</u> and S. Chen<sup>\*</sup>, "A Flexure-based Multi-layer Roll-to-roll Printing System", *Proceedings of the Annual Meeting of the ASPE*, Charlotte, NC, USA, Oct. 2017, pp. 393-7.
-[@Paper]({{site.url}}/papers/ASPE_2017_Li.pdf){:target="_blank"}
+[@Paper](/papers/ASPE_2017_Li.pdf){:target="_blank"}
 
 2. J. Wang, <u>C. Li</u>, and S. Chen<sup>\*</sup>, "Design of a High-speed Oscillating Blade Microtome", *Proceedings of the Annual Meeting of the ASPE*, Charlotte, NC, USA, Oct. 2017, pp. 412-6.
-[@Paper]({{site.url}}/papers/ASPE_2017_Wang.pdf){:target="_blank"}
+[@Paper](/papers/ASPE_2017_Wang.pdf){:target="_blank"}
 
 1. <u>C. Li</u>, J. Wang, and S. Chen<sup>\*</sup>, "Design of a Flexure-based Dynamic-tunable Five-axis Nanopositioner", *Proceedings of the Annual Meeting of the ASPE*, Boston, MA, USA, Nov. 2014, pp. 153-7.
-[@Paper]({{site.url}}/papers/ASPE_2014_Li.pdf){:target="_blank"}
+[@Paper](/papers/ASPE_2014_Li.pdf){:target="_blank"}
 {: reversed="reversed"}
 
 ## Patent
