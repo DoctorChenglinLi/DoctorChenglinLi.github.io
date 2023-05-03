@@ -8,8 +8,6 @@ permalink: /research/
 <style>
 img {
   border-radius:10px;
-  vertical-align: middle;
-  align-items: center;
 }
 .col-md-3 {
   margin-top:10px;
@@ -97,34 +95,24 @@ We have developed a multi-layer roll-to-roll (R2R) system with multiple-input mu
 We present the design and control of a flexure-based five-axis nanopositioner with dynamic-tuning capability for parallel nanomanufacturing applications. The dynamic-tuning method enables trade-offs between the range and speed of the nanopositioner so as to increase the throughput of the nanomanufacturing system. The nanopositioner conforms with the in-plane range and resolution requirements, i.e., ±5 mm/100 nm in the <i>X</i>/<i>Y</i> axis, while its natural frequencies in the <i>X</i>/<i>Y</i> axis can be increased by two to three times at the expense of decreased stroke. Nano-scratching experiments were performed using an 18-tip AFM (atomic force microscopy) array to fabricate optical grating patterns on gold-coated silicon substrates of 5×1 mm<sup>2</sup> to demonstrate the practicality of the new method.
 </p>
 </div>
-<div class="col-md-4 col-sm-12" style="background-color:white; display: flex; flex-direction: row; justify-content: center; align-items: center;">
+<div class="col-md-4 col-sm-12" style="background-color:white;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Dyn.png" style="width: 100%;"/>
 </div>
 </div>
 </div>
 
 <div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
-<h4>Discharge physics of magnetron sputtering</h4>
-
-Magnetron sputtering has become the most widely used technique for thin film deposition and is utilized in numerous industrial applications.
-We provide a self-consistent and complete description of its dynamics.
-Examples are:
-* Electron dynamics in <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng20psst.pdf" target="_blank">Radio Frequency Magnetron Sputtering</a> (RFMS) discharges
-* Comparison of RFMS and DCMS discharges (in progress)
-* Comparison of <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng21_compa_1d_2d.pdf" target="_blank">1D and 2D PIC simulations</a> for DCMS discharges
-* Breathing oscillation and electron energization in magnetron discharges (in progress) 
-* Modulation effect of pulses in magnetron discharges (in progress)
-* Discharge characteristics of HiPIMS via PIC simulation: Coulomb collisions, sputtering wind, multiply charged metal species, etc (in progress)
-
-Another efficient tool for studying magnetron sputtering is the global model, which we used to study the discharge characteristics of <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng15_press_effec_energ_depos_cu.pdf" target="_blank">HiPIMS</a> and <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng17_global_plasm_model_react_depos.pdf" target="_blank">reactive HiPIMS</a>,
-influence of <a href="{{ site.url }}{{ site.baseurl }}/papers/cui19_hollow_cathod_effec_modif_time.pdf" target="_blank">geometric factors</a> on <a href="{{ site.url }}{{ site.baseurl }}/papers/cui20_nano_secon_tempor_partic_behav.pdf" target="_blank">plasma dynamics</a>,
-and <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng19_disch_depos_charac_high_power.pdf" target="_blank">the influence of the target material</a> in HiPIMS discharges.
-
+<div class="col-md-12 col-sm-12">
+<h4>High-speed Oscillating Blade Microtome</h4>
 </div>
-<div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="200%"/>
+<div class="row align-items-center">
+<div class="col-md-9 col-sm-12">
+<p style="text-align: justify;">
+We theoretically and experimentally study the cutting mechanism of soft materials using a custom-built oscillating blade microtome. Analytical models are derived to deterministically link the sectioning quality to the cutting parameters, including blade oscillation frequency, amplitude, and sample feed rate. Importantly, for the first time, the study reveals that the sectioning results given by microtomes can be greatly enhanced when the cutting frequency is above 150 Hz due to the material stiffening effect—a unique trait of viscoelastic materials. The model may be used to predict the optimal cutting parameters for various tissues. As most state-of-the-art microtomes operate below 100 Hz, the results also set new requirements for next-generation tissue sectioning and surgical instruments.
+</p>
+</div>
+<div class="col-md-3 col-sm-12" style="background-color:white;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Vib.jpg" width="100%"/>
 </div>
 </div>
 </div>
