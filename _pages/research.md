@@ -33,6 +33,7 @@ iframe {
 ## Research
 
 <div class="jumbotron">
+<div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
 <h4>Discharge physics of magnetron sputtering</h4>
 
