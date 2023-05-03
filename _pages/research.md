@@ -52,7 +52,7 @@ and <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng19_disch_depos_charac_
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research_rfms.gif" width="200%"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="200%"/>
 </div>
 </div>
 </div>
