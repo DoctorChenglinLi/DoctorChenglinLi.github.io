@@ -8,7 +8,6 @@ permalink: /research/
 <style>
 img {
   border-radius:10px;
-  vertical-align: middle;
 }
 .col-md-3 {
   margin-top:10px;
