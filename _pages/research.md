@@ -69,7 +69,7 @@ Compliant Building Elements (CBE) is a novel and systematic method for generatin
 </p>
 </div>
 <div class="col-md-12 col-sm-12" style="background-color:white;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/CBE.png" width="100%"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/CBE.png" width="70%"/>
 </div>
 </div>
 
@@ -81,7 +81,7 @@ We have developed a multi-layer roll-to-roll (R2R) system with multiple-input mu
 </p>
 </div>
 <div class="col-md-12 col-sm-12" style="background-color:white;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/R2R.png" width="100%"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/R2R.png" width="70%"/>
 </div>
 </div>
 
@@ -114,5 +114,17 @@ We theoretically and experimentally study the cutting mechanism of soft material
 <div class="col-md-3 col-sm-12" style="background-color:white;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Vib.jpg" width="100%"/>
 </div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Deep Learning-based Precision Control for Nanopositioner</h4>
+<p style="text-align: justify;">
+We have developed a multi-layer roll-to-roll (R2R) system with multiple-input multiple-output (MIMO) closed-loop control that achieves submicron-level alignment precision for large-scale continuous printing processes. The enabling elements in the multi-layer R2R system include (1) a new vision-based alignment algorithm/method, which provides 100s nm position detection capability based on low-cost cameras; and (2) a custom-built five-axis compliant roller positioner, which has a ±1 mm range with 100s nm precision in <i>X</i>, <i>Y</i>, and <i>Z</i> axes respectively. Based on the new methods, a gate/source-drain multi-layer electrode structure for field-effect transistors (FETs) has been designed and fabricated on a 4-inch PET web, demonstrating better than 1 μm overlay precision in fabricating flexible electronics on a R2R platform for the first time.
+</p>
+</div>
+<div class="col-md-12 col-sm-12" style="background-color:white;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/DLPC.png" width="70%"/>
 </div>
 </div>
