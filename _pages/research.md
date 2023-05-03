@@ -93,11 +93,11 @@ We have developed a multi-layer roll-to-roll (R2R) system with multiple-input mu
 <div class="row align-items-end">
 <div class="col-md-8 col-sm-12">
 <p style="text-align: justify;">
-We present the design and control of a flexure-based five-axis nanopositioner with dynamic-tuning capability for parallel nanomanufacturing applications. The dynamic-tuning method enables trade-offs between the range and speed of the nanopositioner so as to increase the throughput of the nanomanufacturing system. The nanopositioner conforms with the in-plane range and resolution requirements, i.e., ±5 mm/100 nm in the X/Y axis, while its natural frequencies in the X/Y axis can be increased by two to three times at the expense of decreased stroke. Nano-scratching experiments were performed using an 18-tip AFM (atomic force microscopy) array to fabricate optical grating patterns on gold-coated silicon substrates of 5 × 1 mm2 to demonstrate the practicality of the new method.
+We present the design and control of a flexure-based five-axis nanopositioner with dynamic-tuning capability for parallel nanomanufacturing applications. The dynamic-tuning method enables trade-offs between the range and speed of the nanopositioner so as to increase the throughput of the nanomanufacturing system. The nanopositioner conforms with the in-plane range and resolution requirements, i.e., ±5 mm/100 nm in the <i>X</i>/<i>Y</i> axis, while its natural frequencies in the <i>X</i>/<i>Y</i> axis can be increased by two to three times at the expense of decreased stroke. Nano-scratching experiments were performed using an 18-tip AFM (atomic force microscopy) array to fabricate optical grating patterns on gold-coated silicon substrates of 5×1 mm<sup>2</sup> to demonstrate the practicality of the new method.
 </p>
 </div>
-<div class="col-md-4 col-sm-12" style="background-color:white;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Dyn.png" width="100%"/>
+<div class="col-md-4 col-sm-12" style="background-color:white; display: flex; justify-content: center; align-items: center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Dyn.png" style="width: 100%;"/>
 </div>
 </div>
 </div>
