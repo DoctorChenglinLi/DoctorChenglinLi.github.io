@@ -124,7 +124,7 @@ We theoretically and experimentally study the cutting mechanism of soft material
 We have developed a multi-layer roll-to-roll (R2R) system with multiple-input multiple-output (MIMO) closed-loop control that achieves submicron-level alignment precision for large-scale continuous printing processes. The enabling elements in the multi-layer R2R system include (1) a new vision-based alignment algorithm/method, which provides 100s nm position detection capability based on low-cost cameras; and (2) a custom-built five-axis compliant roller positioner, which has a ±1 mm range with 100s nm precision in <i>X</i>, <i>Y</i>, and <i>Z</i> axes respectively. Based on the new methods, a gate/source-drain multi-layer electrode structure for field-effect transistors (FETs) has been designed and fabricated on a 4-inch PET web, demonstrating better than 1 μm overlay precision in fabricating flexible electronics on a R2R platform for the first time.
 </p>
 </div>
-<div class="justify-content-center">
+<div class="row justify-content-center">
 <div class="col-md-8 col-sm-12 " style="background-color:white;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/DLPC.png" width="100%"/>
 </div>
