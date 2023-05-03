@@ -96,7 +96,7 @@ We present the design and control of a flexure-based five-axis nanopositioner wi
 </p>
 </div>
 <div class="col-md-6 col-sm-12" style="background-color:white;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Dyn.png" width="100%"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Dyn.png" width="100%" style="vertical-align:middle;" />
 </div>
 </div>
 </div>
