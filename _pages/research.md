@@ -68,8 +68,10 @@ and <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng19_disch_depos_charac_
 Compliant Building Elements (CBE) is a novel and systematic method for generating practicable flexure designs. The CBE is unique in that it encodes a compliant system’s quantitative information, including elasticity, geometry, location, and orientation, in a parametric matrix. In CBE, a compliant system consists of three types of compliant elements, i.e., compliant elements formed by serial or parallel connections and basic compliant elements. The synthesis procedure is a top-down and iterative process, starting from laying out the stage topology to finally optimizing the compliant connection elements and types. The matrix-based synthesis for compliant mechanisms is analogous to the screw-based type synthesis for rigid parallel mechanisms, and enables early-stage flexure system design via building compliant blocks just like building LEGO<sup>®</sup> bricks.
 </p>
 </div>
-<div class="col-md-12 col-sm-12" style="background-color:white;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/CBE.png" width="70%"/>
+<div class="row justify-content-center">
+<div class="col-md-8 col-sm-12" style="background-color:white;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/CBE.png" width="100%"/>
+</div>
 </div>
 </div>
 
@@ -80,8 +82,10 @@ Compliant Building Elements (CBE) is a novel and systematic method for generatin
 We have developed a multi-layer roll-to-roll (R2R) system with multiple-input multiple-output (MIMO) closed-loop control that achieves submicron-level alignment precision for large-scale continuous printing processes. The enabling elements in the multi-layer R2R system include (1) a new vision-based alignment algorithm/method, which provides 100s nm position detection capability based on low-cost cameras; and (2) a custom-built five-axis compliant roller positioner, which has a ±1 mm range with 100s nm precision in <i>X</i>, <i>Y</i>, and <i>Z</i> axes respectively. Based on the new methods, a gate/source-drain multi-layer electrode structure for field-effect transistors (FETs) has been designed and fabricated on a 4-inch PET web, demonstrating better than 1 μm overlay precision in fabricating flexible electronics on a R2R platform for the first time.
 </p>
 </div>
-<div class="col-md-12 col-sm-12" style="background-color:white;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/R2R.png" width="70%"/>
+<div class="row justify-content-center">
+<div class="col-md-8 col-sm-12" style="background-color:white;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/R2R.png" width="100%"/>
+</div>
 </div>
 </div>
 
