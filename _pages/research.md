@@ -28,6 +28,9 @@ iframe {
   display:inline;
   vertical-align:middle;
 }
+h4 {
+  text-align: center;
+}
 </style>
 
 ## Research
