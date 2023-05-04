@@ -13,6 +13,7 @@ Research in theoretical physics helps us to make predictions about how the unive
 It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
 Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
 
+<!--
 <div class="container">
 <div class="row">
 <center>
@@ -23,6 +24,7 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 </div>
 </div>
 <br/>
+-->
 
 ### About me
 
@@ -30,4 +32,3 @@ I am a physicist working in the field of quantum mechanics and quantum electrody
 I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
 After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
 After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
-
