@@ -31,9 +31,7 @@ nav_pages:
   - name: about
   - name: research
   - name: publication
-  - name: award
   - name: miscellanea
-  - name: gallery
 
 include:
   - .htaccess
