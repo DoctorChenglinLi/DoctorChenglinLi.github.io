@@ -9,7 +9,17 @@ permalink: /research/
 h4 {
   text-align:center;
 }
+div {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  display: table;
+}
 img {
+  display:table-cell;
+  text-align:center;
+  vertical-align:middle;
   border-radius:10px;
 }
 .col-md-3 {
@@ -57,7 +67,7 @@ iframe {
 
 </div>
 <div class="row justify-content-center">
-<div class="col-md-8 col-sm-12 " style="background-color:white; display: table-cell; vertical-align: middle;">
+<div class="col-md-8 col-sm-12 " style="background-color:white;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/DLPC.png" width="100%"/>
 </div>
 </div>
