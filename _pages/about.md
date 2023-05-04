@@ -92,11 +92,11 @@ p.txt {
   [@Award](/awards/PCKKSCA 2015.pdf){:target="_blank"} </p></li>
   <li><p class="txt">(2012) Best System Control Award and Excellent Team Culture Award (THU team) in International Aerial Robotic Competition (IARC 2012)
   [@Award](/awards/IARC6.pdf){:target="_blank"} </p></li>
-</ul>
-
+  
 1. <p class="txt">S. Chen, <u>C. Li</u>, and J. Wang, "Method and Apparatus for Dynamic Tuning", *U.S. Patent*, No. 9,527,733, Dec 27th, 2016.
 [@Patent](https://patents.google.com/patent/US9527733B2/en){:target="_blank"}</p>
-{: reversed="reversed"}
+</ul>
+
 
 <!--
 {% if site.data.people %}
