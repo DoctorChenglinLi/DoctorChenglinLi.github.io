@@ -93,14 +93,14 @@ img {
 </div>
 
 <div class="jumbotron">
+<div class="row align-items-center">
 <div class="col-md-12 col-sm-12">
 <h4>High-speed Oscillating Blade Microtome</h4>
 </div>
+</div>
 <div class="row align-items-center">
 <div class="col-md-9 col-sm-12">
-
 <p style="text-align: justify;">We theoretically and experimentally study the cutting mechanism of soft materials using a custom-built oscillating blade microtome. Analytical models are derived to deterministically link the sectioning quality to the cutting parameters, including blade oscillation frequency, amplitude, and sample feed rate. Importantly, for the first time, the study reveals that the sectioning results given by microtomes can be greatly enhanced when the cutting frequency is above 150 Hz due to the material stiffening effect—a unique trait of viscoelastic materials. The model may be used to predict the optimal cutting parameters for various tissues. As most state-of-the-art microtomes operate below 100 Hz, the results also set new requirements for next-generation tissue sectioning and surgical instruments.</p>
-
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:white;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Vib.jpg" width="100%"/>
