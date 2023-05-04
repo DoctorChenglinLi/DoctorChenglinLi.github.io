@@ -122,7 +122,7 @@ p.txt {
   <h4>Journals Refereed</h4>
 <ul>
 {% for journal in site.data.journals %}
-  <li> {{ journal.name }} </li>
+  <li><a href="{{ journal.url }}" target="_blank">@{{ journal.name }}</a></li>
 {% endfor %}
 </ul>
 </div>
