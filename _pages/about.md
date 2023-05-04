@@ -116,3 +116,14 @@ p.txt {
 </div>
 {% endif %}
 -->
+
+{% if site.data.journals %}
+<div class="jumbotron">
+  <h4>Journals Refereed</h4>
+<ul>
+{% for journal in site.data.journals %}
+  <li> {{ journal.name }} </li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
