@@ -22,7 +22,7 @@ img {
   vertical-align:middle;
   border-radius:10px;
 }
-.col-md-3 {
+.col-md-3, .col-md-4, .col-md-8 {
   margin-top:10px;
   margin-bottom:10px;
   padding:0px;
