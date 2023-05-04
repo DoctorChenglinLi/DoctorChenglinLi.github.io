@@ -11,8 +11,6 @@ h4 {
 }
 img {
   border-radius:10px;
-  display: block;
-  margin: auto;
 }
 .col-md-3 {
   margin-top:10px;
@@ -60,7 +58,7 @@ iframe {
 </div>
 <div class="row justify-content-center">
 <div class="col-md-8 col-sm-12 " style="background-color:white;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/DLPC.png" width="100%"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/DLPC.png" width="100%" style="display: block; margin: auto;"/>
 </div>
 </div>
 </div>
