@@ -32,29 +32,29 @@ p.txt {
 </style>
 
 ## Journal Publication
-8. <p class="txt"><u>C. Li</u><sup>\*</sup> and S. Chen<sup>\*</sup>, "Design of Compliant Mechanisms based on Compliant Building Elements. Part I: Principles", *Precision Engineering*, Vol. 81, pp. 207-20, 2023.</p>
-[@Paper](https://www.sciencedirect.com/science/article/pii/S0141635923000065){:target="_blank"}
+8. <p class="txt"><u>C. Li</u><sup>\*</sup> and S. Chen<sup>\*</sup>, "Design of Compliant Mechanisms based on Compliant Building Elements. Part I: Principles", *Precision Engineering*, Vol. 81, pp. 207-20, 2023.
+[@Paper](https://www.sciencedirect.com/science/article/pii/S0141635923000065){:target="_blank"}</p>
     
-7. <p class="txt"><u>C. Li</u><sup>\*</sup> and S. Chen<sup>\*</sup>, "Design of Compliant Mechanisms based on Compliant Building Elements. Part II: Practice", *Precision Engineering*, Vol. 81, pp. 8-21, 2023.</p>
-[@Paper](https://www.sciencedirect.com/science/article/pii/S0141635923000053){:target="_blank"}
+7. <p class="txt"><u>C. Li</u><sup>\*</sup> and S. Chen<sup>\*</sup>, "Design of Compliant Mechanisms based on Compliant Building Elements. Part II: Practice", *Precision Engineering*, Vol. 81, pp. 8-21, 2023.
+[@Paper](https://www.sciencedirect.com/science/article/pii/S0141635923000053){:target="_blank"}</p>
     
-6. <p class="txt"><u>C. Li</u>, H. Xu, and S. Chen<sup>\*</sup>, "Design of a Precision Multi-layer Roll-to-roll Printing System", *Precision Engineering*, Vol. 66, pp. 564-76, 2020.</p>
-[@Paper](https://www.sciencedirect.com/science/article/pii/S0141635920304906){:target="_blank"}
+6. <p class="txt"><u>C. Li</u>, H. Xu, and S. Chen<sup>\*</sup>, "Design of a Precision Multi-layer Roll-to-roll Printing System", *Precision Engineering*, Vol. 66, pp. 564-76, 2020.
+[@Paper](https://www.sciencedirect.com/science/article/pii/S0141635920304906){:target="_blank"}</p>
     
-5. <p class="txt">J. Wang, <u>C. Li</u>, and S. Chen<sup>\*</sup>, "Sectioning Soft Materials with an Oscillating Blade", *Precision Engineering*, Vol. 56, pp. 96-100, 2019.</p>
-[@Paper](https://www.sciencedirect.com/science/article/pii/S0141635918304902){:target="_blank"}
+5. <p class="txt">J. Wang, <u>C. Li</u>, and S. Chen<sup>\*</sup>, "Sectioning Soft Materials with an Oscillating Blade", *Precision Engineering*, Vol. 56, pp. 96-100, 2019.
+[@Paper](https://www.sciencedirect.com/science/article/pii/S0141635918304902){:target="_blank"}</p>
     
-4. <p class="txt">X. Fan, Y. Huang, X. Ding, N. Luo, <u>C. Li</u>, N. Zhao<sup>\*</sup>, and S. Chen<sup>\*</sup>, "Alignment-free Liquid Capsule Pressure Sensor for Cardiovascular Monitoring", *Advanced Functional Materials*, Vol. 28, No. 44, pp. 1805045, 2018.</p>
-[@Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201805045){:target="_blank"}
+4. <p class="txt">X. Fan, Y. Huang, X. Ding, N. Luo, <u>C. Li</u>, N. Zhao<sup>\*</sup>, and S. Chen<sup>\*</sup>, "Alignment-free Liquid Capsule Pressure Sensor for Cardiovascular Monitoring", *Advanced Functional Materials*, Vol. 28, No. 44, pp. 1805045, 2018.
+[@Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201805045){:target="_blank"}</p>
     
-3. <p class="txt">Y. Meng, W. Lin, <u>C. Li</u>, and S. Chen<sup>\*</sup>, "Fast Two-snapshot Structured Illumination for Temporal Focusing Microscopy with Enhanced Axial Resolution", *Optics Express*, Vol. 25, No.19, pp. 23109-21, 2017.</p>
-[@Paper](https://opg.optica.org/abstract.cfm?uri=oe-25-19-23109){:target="_blank"}
+3. <p class="txt">Y. Meng, W. Lin, <u>C. Li</u>, and S. Chen<sup>\*</sup>, "Fast Two-snapshot Structured Illumination for Temporal Focusing Microscopy with Enhanced Axial Resolution", *Optics Express*, Vol. 25, No.19, pp. 23109-21, 2017.
+[@Paper](https://opg.optica.org/abstract.cfm?uri=oe-25-19-23109){:target="_blank"}</p>
     
-2. <p class="txt"><u>C. Li</u>, J. Wang, and S. Chen<sup>\*</sup>, "Flexure-based Dynamic-tunable Five-axis Nanopositioner for Parallel Nanomanufacturing", *Precision Engineering*, Vol. 45, pp. 423-34, 2016.</p>
-[@Paper](https://www.sciencedirect.com/science/article/pii/S0141635916300216){:target="_blank"}
+2. <p class="txt"><u>C. Li</u>, J. Wang, and S. Chen<sup>\*</sup>, "Flexure-based Dynamic-tunable Five-axis Nanopositioner for Parallel Nanomanufacturing", *Precision Engineering*, Vol. 45, pp. 423-34, 2016.
+[@Paper](https://www.sciencedirect.com/science/article/pii/S0141635916300216){:target="_blank"}</p>
     
-1. <p class="txt">N. Luo, W. Dai, <u>C. Li</u>, Z. Zhou, L. Lu, C.C.Y. Poon, S. Chen, Y. Zhang, and N. Zhao<sup>\*</sup>, "Flexible Piezoresistive Sensor Patch Enabling Ultralow Power Cuffless Blood Pressure Measurement", *Advanced Functional Materials*, Vol. 26, No. 8, pp. 1178-87, 2016.</p>
-[@Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201504560){:target="_blank"}
+1. <p class="txt">N. Luo, W. Dai, <u>C. Li</u>, Z. Zhou, L. Lu, C.C.Y. Poon, S. Chen, Y. Zhang, and N. Zhao<sup>\*</sup>, "Flexible Piezoresistive Sensor Patch Enabling Ultralow Power Cuffless Blood Pressure Measurement", *Advanced Functional Materials*, Vol. 26, No. 8, pp. 1178-87, 2016.
+[@Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201504560){:target="_blank"}</p>
 {: reversed="reversed"}
 
 ## Conference Publication
