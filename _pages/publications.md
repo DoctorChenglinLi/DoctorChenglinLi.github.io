@@ -29,6 +29,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 </style>
 
 ## Journal Publication
+<p style="text-align: justify;">
 8. <u>C. Li</u><sup>\*</sup> and S. Chen<sup>\*</sup>, "Design of Compliant Mechanisms based on Compliant Building Elements. Part I: Principles", *Precision Engineering*, Vol. 81, pp. 207-20, 2023.
 [@Paper](https://www.sciencedirect.com/science/article/pii/S0141635923000065){:target="_blank"}
     
@@ -53,8 +54,9 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 1. N. Luo, W. Dai, <u>C. Li</u>, Z. Zhou, L. Lu, C.C.Y. Poon, S. Chen, Y. Zhang, and N. Zhao<sup>\*</sup>, "Flexible Piezoresistive Sensor Patch Enabling Ultralow Power Cuffless Blood Pressure Measurement", *Advanced Functional Materials*, Vol. 26, No. 8, pp. 1178-87, 2016.
 [@Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201504560){:target="_blank"}
 {: reversed="reversed"}
-    
+</p>
 ## Conference Publication
+<p style="text-align: justify;">
 6. <u>C. Li</u>, X. Liu, and S. Chen<sup>\*</sup>, "Design of a Six-axis Parallel Nanopositioner Using Decoupled Flexural Legs", *Proceedings of the Annual Meeting of the ASPE*, Pittsburg, PA, USA, Oct. 2019, pp. 422-6.
 [@Paper](/papers/ASPE_2019_Li.pdf){:target="_blank"}
 
@@ -73,8 +75,9 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 1. <u>C. Li</u>, J. Wang, and S. Chen<sup>\*</sup>, "Design of a Flexure-based Dynamic-tunable Five-axis Nanopositioner", *Proceedings of the Annual Meeting of the ASPE*, Boston, MA, USA, Nov. 2014, pp. 153-7.
 [@Paper](/papers/ASPE_2014_Li.pdf){:target="_blank"}
 {: reversed="reversed"}
-
+</p>
 ## Patent
+<p style="text-align: justify;">
 3. S. Chen, J. Wang, and <u>C. Li</u>, "Microtome", *U.S. Patent*, No. 10,603,688, Mar 31st, 2020.
 [@Patent](https://patents.google.com/patent/US10603688B2/en){:target="_blank"}
 
@@ -84,5 +87,5 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 1. S. Chen, <u>C. Li</u>, and J. Wang, "Method and Apparatus for Dynamic Tuning", *U.S. Patent*, No. 9,527,733, Dec 27th, 2016.
 [@Patent](https://patents.google.com/patent/US9527733B2/en){:target="_blank"}
 {: reversed="reversed"}
-
+</p>
 _<sup>&dagger;</sup> denotes co-first authorship; <sup>\*</sup> denotes corresponding authorship._
