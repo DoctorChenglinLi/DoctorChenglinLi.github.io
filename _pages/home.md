@@ -17,7 +17,7 @@ Theoretical physics helps us to make progress in a wide range of fields, includi
 
 ### About Me
 
-I am currently working as a Research Associate in the [Multiscale Precision Instrumentation Laboratory](https://www.mpil.mae.cuhk.edu.hk/){:target="_blank"} (MPIL) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/){:target="_blank"} (CUHK). I obtained my undergraduate degree in [Mechanical Engineering](https://www.me.tsinghua.edu.cn/en/){:target="_blank"} from [Tsinghua University](https://www.tsinghua.edu.cn/en/){:target="_blank"} (THU) in 2013 and my Ph.D. degree in the [Department of Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/){:target="_blank"} (MAE) at CUHK under the guidance of [Prof. Chen Shih-Chi](https://www4.mae.cuhk.edu.hk/peoples/chen-shih-chi-2/){:target="_blank"} in 2019.
+<p style="text-align: justify;">I am currently working as a Research Associate in the [Multiscale Precision Instrumentation Laboratory](https://www.mpil.mae.cuhk.edu.hk/){:target="_blank"} (MPIL) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/){:target="_blank"} (CUHK). I obtained my undergraduate degree in [Mechanical Engineering](https://www.me.tsinghua.edu.cn/en/){:target="_blank"} from [Tsinghua University](https://www.tsinghua.edu.cn/en/){:target="_blank"} (THU) in 2013 and my Ph.D. degree in the [Department of Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/){:target="_blank"} (MAE) at CUHK under the guidance of [Prof. Chen Shih-Chi](https://www4.mae.cuhk.edu.hk/peoples/chen-shih-chi-2/){:target="_blank"} in 2019.</p>
 
 <div class="container">
 <div class="row">
