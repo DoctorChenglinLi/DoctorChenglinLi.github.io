@@ -81,7 +81,6 @@ p.txt {
 {% endif %}
 -->
 
-<div class="jumbotron">
   <h4>Awards</h4>
 <ul>
   <li><p class="txt">(2017) Second Place (CUHK team) of the 4th Student Challenge in the 32nd Annual Meeting of the American Society for Precision Engineering (ASPE 2017)
@@ -94,7 +93,7 @@ p.txt {
   <li><p class="txt">(2012) Best System Control Award and Excellent Team Culture Award (THU team) in International Aerial Robotic Competition (IARC 2012)
   [@Award](/awards/IARC6.pdf){:target="_blank"} </p></li>
 </ul>
-</div>
+
 
 <!--
 {% if site.data.people %}
