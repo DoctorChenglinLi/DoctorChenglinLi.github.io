@@ -5,6 +5,12 @@ sitemap: false
 permalink: /about/
 ---
 
+<style>
+p.txt {
+  text-align: justify;
+}
+</style>
+
 ## About 
 
 {% for member in site.data.pi %}
@@ -80,7 +86,7 @@ permalink: /about/
   <h4>Awards</h4>
 <ul>
 {% for award in site.data.awards %}
- <li> {{ award.name | replace: "-","&#8211;"}} </li>
+ <li><p class="txt"> {{ award.name | replace: "-","&#8211;"}} </p></li>
 {% endfor %}
 </ul>
 </div>
