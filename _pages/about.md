@@ -94,7 +94,7 @@ p.txt {
   [@Award](/awards/IARC6.pdf){:target="_blank"} </p></li>
   
 1. <p class="txt">S. Chen, <u>C. Li</u>, and J. Wang, "Method and Apparatus for Dynamic Tuning", *U.S. Patent*, No. 9,527,733, Dec 27th, 2016.
-<a href="https://patents.google.com/patent/US9527733B2/en" target="_blank">@Patent</a></p>
+<a href="{{ site.url }}{{ site.baseurl }}/awards/IARC6.pdf" target="_blank">@Award</a></p>
 </ul>
 
 
