@@ -62,6 +62,7 @@ permalink: /about/
 </div>
 {% endfor %}
 
+<!--
 {% if site.data.grants %}
 <div class="jumbotron">
   <h4>Grants</h4>
@@ -72,6 +73,7 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+-->
 
 {% if site.data.awards %}
 <div class="jumbotron">
@@ -84,6 +86,7 @@ permalink: /about/
 </div>
 {% endif %}
 
+<!--
 {% if site.data.people %}
 <div class="jumbotron">
   <h4>Students and mentoring</h4>
@@ -94,8 +97,9 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+-->
 
-
+<!--
 {% if site.data.funders %}
 <div class="jumbotron">
   <h4>Sponsors</h4>
@@ -104,3 +108,4 @@ permalink: /about/
   </div>
 </div>
 {% endif %}
+-->
