@@ -23,7 +23,7 @@ Theoretical physics helps us to make progress in a wide range of fields, includi
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/R2R.jpg" width="100%"/><br/>
-Precision multi-layer roll-to-roll printing system. <br/>
+Precision multi-layer roll-to-roll printing system <br/>
 Li C., <i>Precis. Eng.</i> (2020)
 </center>
 </div>
