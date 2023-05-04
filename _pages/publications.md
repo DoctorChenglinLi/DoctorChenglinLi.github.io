@@ -58,36 +58,34 @@ p.txt {
 {: reversed="reversed"}
 
 ## Conference Publication
-<p style="text-align: justify;">
-6. <u>C. Li</u>, X. Liu, and S. Chen<sup>\*</sup>, "Design of a Six-axis Parallel Nanopositioner Using Decoupled Flexural Legs", *Proceedings of the Annual Meeting of the ASPE*, Pittsburg, PA, USA, Oct. 2019, pp. 422-6.
-[@Paper](/papers/ASPE_2019_Li.pdf){:target="_blank"}
+6. <p class="txt"><u>C. Li</u>, X. Liu, and S. Chen<sup>\*</sup>, "Design of a Six-axis Parallel Nanopositioner Using Decoupled Flexural Legs", *Proceedings of the Annual Meeting of the ASPE*, Pittsburg, PA, USA, Oct. 2019, pp. 422-6.
+[@Paper](/papers/ASPE_2019_Li.pdf){:target="_blank"}</p>
 
-5. X. Liu, <u>C. Li</u>, H. Li, X. Wang, and S. Chen<sup>\*</sup>, "Deep Learning-based Precision Control for Six-axis Compliant Nanopositioner", *Proceedings of the Annual Meeting of the ASPE*, Pittsburg, PA, USA, Oct. 2019, pp. 139-44.
-[@Paper](/papers/ASPE_2019_Liu.pdf){:target="_blank"}
+5. <p class="txt">X. Liu, <u>C. Li</u>, H. Li, X. Wang, and S. Chen<sup>\*</sup>, "Deep Learning-based Precision Control for Six-axis Compliant Nanopositioner", *Proceedings of the Annual Meeting of the ASPE*, Pittsburg, PA, USA, Oct. 2019, pp. 139-44.
+[@Paper](/papers/ASPE_2019_Liu.pdf){:target="_blank"}</p>
 
-4. Y. Meng, W. Lin, J. Chen, <u>C. Li</u>, S. Chen<sup>\*</sup>, "Fast Two-snapshot Structured Illumination for Wide-field Two-photon Microscopy with Enhanced Axial Resolution and Signal-to-noise Ratio", *CLEO: Applications and Technology*, Optical Society of America, May 2019, pp. AM3I-6.
-[@Paper](https://ieeexplore.ieee.org/abstract/document/8749995){:target="_blank"}
+4. <p class="txt">Y. Meng, W. Lin, J. Chen, <u>C. Li</u>, S. Chen<sup>\*</sup>, "Fast Two-snapshot Structured Illumination for Wide-field Two-photon Microscopy with Enhanced Axial Resolution and Signal-to-noise Ratio", *CLEO: Applications and Technology*, Optical Society of America, May 2019, pp. AM3I-6.
+[@Paper](https://ieeexplore.ieee.org/abstract/document/8749995){:target="_blank"}</p>
 
-3. <u>C. Li</u> and S. Chen<sup>\*</sup>, "A Flexure-based Multi-layer Roll-to-roll Printing System", *Proceedings of the Annual Meeting of the ASPE*, Charlotte, NC, USA, Oct. 2017, pp. 393-7.
-[@Paper](/papers/ASPE_2017_Li.pdf){:target="_blank"}
+3. <p class="txt"><u>C. Li</u> and S. Chen<sup>\*</sup>, "A Flexure-based Multi-layer Roll-to-roll Printing System", *Proceedings of the Annual Meeting of the ASPE*, Charlotte, NC, USA, Oct. 2017, pp. 393-7.
+[@Paper](/papers/ASPE_2017_Li.pdf){:target="_blank"}</p>
 
-2. J. Wang, <u>C. Li</u>, and S. Chen<sup>\*</sup>, "Design of a High-speed Oscillating Blade Microtome", *Proceedings of the Annual Meeting of the ASPE*, Charlotte, NC, USA, Oct. 2017, pp. 412-6.
-[@Paper](/papers/ASPE_2017_Wang.pdf){:target="_blank"}
+2. <p class="txt">J. Wang, <u>C. Li</u>, and S. Chen<sup>\*</sup>, "Design of a High-speed Oscillating Blade Microtome", *Proceedings of the Annual Meeting of the ASPE*, Charlotte, NC, USA, Oct. 2017, pp. 412-6.
+[@Paper](/papers/ASPE_2017_Wang.pdf){:target="_blank"}</p>
 
-1. <u>C. Li</u>, J. Wang, and S. Chen<sup>\*</sup>, "Design of a Flexure-based Dynamic-tunable Five-axis Nanopositioner", *Proceedings of the Annual Meeting of the ASPE*, Boston, MA, USA, Nov. 2014, pp. 153-7.
-[@Paper](/papers/ASPE_2014_Li.pdf){:target="_blank"}
+1. <p class="txt"><u>C. Li</u>, J. Wang, and S. Chen<sup>\*</sup>, "Design of a Flexure-based Dynamic-tunable Five-axis Nanopositioner", *Proceedings of the Annual Meeting of the ASPE*, Boston, MA, USA, Nov. 2014, pp. 153-7.
+[@Paper](/papers/ASPE_2014_Li.pdf){:target="_blank"}</p>
 {: reversed="reversed"}
-</p>
+
 ## Patent
-<p style="text-align: justify;">
-3. S. Chen, J. Wang, and <u>C. Li</u>, "Microtome", *U.S. Patent*, No. 10,603,688, Mar 31st, 2020.
-[@Patent](https://patents.google.com/patent/US10603688B2/en){:target="_blank"}
+3. <p class="txt">S. Chen, J. Wang, and <u>C. Li</u>, "Microtome", *U.S. Patent*, No. 10,603,688, Mar 31st, 2020.
+[@Patent](https://patents.google.com/patent/US10603688B2/en){:target="_blank"}</p>
 
-2. S. Chen, X. Liu, <u>C. Li</u>, X. Wang, and H. Li, "Control System, Control Method and Computer Storage Medium", *U.S. Patent Application*, No. 16/419,955, May 22nd, 2019.
-[@Patent](https://patents.google.com/patent/US20200371481A1/en){:target="_blank"}
+2. <p class="txt">S. Chen, X. Liu, <u>C. Li</u>, X. Wang, and H. Li, "Control System, Control Method and Computer Storage Medium", *U.S. Patent Application*, No. 16/419,955, May 22nd, 2019.
+[@Patent](https://patents.google.com/patent/US20200371481A1/en){:target="_blank"}</p>
 
-1. S. Chen, <u>C. Li</u>, and J. Wang, "Method and Apparatus for Dynamic Tuning", *U.S. Patent*, No. 9,527,733, Dec 27th, 2016.
-[@Patent](https://patents.google.com/patent/US9527733B2/en){:target="_blank"}
+1. <p class="txt">S. Chen, <u>C. Li</u>, and J. Wang, "Method and Apparatus for Dynamic Tuning", *U.S. Patent*, No. 9,527,733, Dec 27th, 2016.
+[@Patent](https://patents.google.com/patent/US9527733B2/en){:target="_blank"}</p>
 {: reversed="reversed"}
-</p>
+
 _<sup>&dagger;</sup> denotes co-first authorship; <sup>\*</sup> denotes corresponding authorship._
