@@ -53,7 +53,7 @@ Compliant Building Elements (CBE) is a novel and systematic method for generatin
 <div class="col-md-12 col-sm-12">
 <h4>Deep Learning-based Precision Control for Nanopositioner</h4>
 <p style="text-align: justify;">
-We have developed a multi-layer roll-to-roll (R2R) system with multiple-input multiple-output (MIMO) closed-loop control that achieves submicron-level alignment precision for large-scale continuous printing processes. The enabling elements in the multi-layer R2R system include (1) a new vision-based alignment algorithm/method, which provides 100s nm position detection capability based on low-cost cameras; and (2) a custom-built five-axis compliant roller positioner, which has a ±1 mm range with 100s nm precision in <i>X</i>, <i>Y</i>, and <i>Z</i> axes respectively. Based on the new methods, a gate/source-drain multi-layer electrode structure for field-effect transistors (FETs) has been designed and fabricated on a 4-inch PET web, demonstrating better than 1 μm overlay precision in fabricating flexible electronics on a R2R platform for the first time.
+We present a new control method for compliant mechanisms based on deep learning models that achieve 100 nm precision in multiple axes with low-lost strain sensor arrays. In our setup, the strain sensor arrays are applied to the flexing components on a custom-designed six-axis compliant nanopositioner such that it measures the mechanical strain for real-time control. We demonstrate that the deep model developed based on the deep reinforcement learning method can fully replace the classical proportional–integral–derivative (PID) controller, realizing 100 nm precision without tuning any control parameters. This implementation and control method can be utilized for all kinds of flexural systems and enable low-cost and user-friendly precision platforms without compromising performance.
 </p>
 </div>
 <div class="row justify-content-center">
@@ -94,9 +94,7 @@ We present the design and control of a flexure-based five-axis nanopositioner wi
 </div>
 
 <div class="jumbotron">
-<div class="col-md-12 col-sm-12">
 <h4>High-speed Oscillating Blade Microtome</h4>
-</div>
 <div class="row align-items-center">
 <div class="col-md-9 col-sm-12">
 <p style="text-align: justify;">
