@@ -9,13 +9,6 @@ permalink: /research/
 h4 {
   text-align:center;
 }
-div {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  height: 100%;
-  display: table;
-}
 .col-md-3, .col-md-4, .col-md-8 {
   margin-top:10px;
   margin-bottom:10px;
