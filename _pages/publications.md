@@ -31,7 +31,7 @@ p.txt {
 }
 </style>
 
-## Journal Publication
+### Journal Publication
 8. <p class="txt"><u>C. Li</u><sup>\*</sup> and S. Chen<sup>\*</sup>, "Design of Compliant Mechanisms based on Compliant Building Elements. Part I: Principles", *Precision Engineering*, Vol. 81, pp. 207-20, 2023.
 [@Paper](https://www.sciencedirect.com/science/article/pii/S0141635923000065){:target="_blank"}</p>
     
@@ -57,7 +57,7 @@ p.txt {
 [@Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201504560){:target="_blank"}</p>
 {: reversed="reversed"}
 
-## Conference Publication
+### Conference Publication
 6. <p class="txt"><u>C. Li</u>, X. Liu, and S. Chen<sup>\*</sup>, "Design of a Six-axis Parallel Nanopositioner Using Decoupled Flexural Legs", *Proceedings of the Annual Meeting of the ASPE*, Pittsburg, PA, USA, Oct. 2019, pp. 422-6.
 [@Paper](/papers/ASPE_2019_Li.pdf){:target="_blank"}</p>
 
@@ -77,7 +77,7 @@ p.txt {
 [@Paper](/papers/ASPE_2014_Li.pdf){:target="_blank"}</p>
 {: reversed="reversed"}
 
-## Patent
+### Patent
 3. <p class="txt">S. Chen, J. Wang, and <u>C. Li</u>, "Microtome", *U.S. Patent*, No. 10,603,688, Mar 31st, 2020.
 [@Patent](https://patents.google.com/patent/US10603688B2/en){:target="_blank"}</p>
 
