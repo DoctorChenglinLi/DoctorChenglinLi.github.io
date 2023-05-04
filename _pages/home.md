@@ -24,8 +24,7 @@ I am currently working as a Research Associate in the [Multiscale Precision Inst
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/R2R.jpg" width="100%"/><br/>
 Precision multi-layer roll-to-roll printing system. <br/>
-Li C., Design of a precision multi-layer roll-to-roll printing system. <i>Precis. Eng.</i> (2020)
+Li C., <i>Precis. Eng.</i> (2020)
 </center>
 </div>
 </div>
-<br/>
