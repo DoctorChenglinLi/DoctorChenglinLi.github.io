@@ -6,7 +6,7 @@ permalink: /research/
 ---
 
 <style>
-.col-md-3, .col-md-4, .col-md-8, .col-md-9, .col-md-12 {
+.col-md-3, .col-md-4, .col-md-8, .col-md-9, .col-md-12, col-sm-12 {
   margin-top:10px;
   margin-bottom:10px;
   padding:10px;
