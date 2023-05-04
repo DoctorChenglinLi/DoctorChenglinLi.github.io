@@ -21,7 +21,7 @@ p.txt {
 </div>
 <div class="col-sm-8 col-xs-12">
   <h3>{{ member.name }}</h3>
-  <h4><i>{{ member.info }}</i></h4>
+  <h5><i>{{ member.info }}</i></h5>
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
   {% if member.cv %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
