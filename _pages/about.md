@@ -7,7 +7,6 @@ permalink: /about/
 
 <style>
 p.txt {
-  line-height: 1;
   text-align: justify;
 }
 </style>
