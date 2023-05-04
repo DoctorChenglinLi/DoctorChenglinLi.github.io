@@ -68,6 +68,11 @@ p.txt {
 </div>
 {% endfor %}
 
+<div class="jumbotron">
+  <h4>Research Interests</h4>
+  <p class="txt">Precision Engineering, Compliant Mechanism, Design Methodology, Micro and Nano-Manufacturing, Metrology</p>
+</div>
+
 <!--
 {% if site.data.grants %}
 <div class="jumbotron">
@@ -122,7 +127,7 @@ p.txt {
   <h4>Journals Refereed</h4>
 <ul>
 {% for journal in site.data.journals %}
-  <li><a href="{{ journal.url }}" target="_blank">@{{ journal.name }}</a></li>
+  <li><a href="{{ journal.url }}" target="_blank">{{ journal.name }}</a></li>
 {% endfor %}
 </ul>
 </div>
