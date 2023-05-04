@@ -30,12 +30,12 @@ iframe {
 }
 </style>
 
-## Research
+## Gallery
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
+<h4>Coming soon!</h4>
 
-Example description
+Check back for more details.
 </div>
 </div>
