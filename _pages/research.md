@@ -16,21 +16,15 @@ div {
   height: 100%;
   display: table;
 }
-img {
-  display:table-cell;
-  text-align:center;
-  vertical-align:middle;
-  border-radius:10px;
-}
 .col-md-3, .col-md-4, .col-md-8 {
   margin-top:10px;
   margin-bottom:10px;
-  padding:0px;
+  padding:10px;
   display:block;
   overflow:hidden;
-  text-align:center;
   display:table-cell;
-  background:white;
+  text-align:center;
+  vertical-align:middle;
   border-radius:20px;
   height:auto;
 }
@@ -40,6 +34,12 @@ iframe {
   width:175px;
   display:inline;
   vertical-align:middle;
+}
+img {
+  display:table-cell;
+  text-align:center;
+  vertical-align:middle;
+  border-radius:10px;
 }
 </style>
 
