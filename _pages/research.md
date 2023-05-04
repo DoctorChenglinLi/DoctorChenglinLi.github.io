@@ -33,7 +33,7 @@ img {
 }
 </style>
 
-## Research
+### Research
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
