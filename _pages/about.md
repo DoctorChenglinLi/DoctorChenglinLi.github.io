@@ -81,16 +81,16 @@ p.txt {
 {% endif %}
 -->
 
-{% if site.data.awards %}
 <div class="jumbotron">
   <h4>Awards</h4>
 <ul>
-{% for award in site.data.awards %}
- <li><p class="txt"> {{ award.name | replace: "-","&#8211;"}} </p></li>
-{% endfor %}
+  <li><p class="txt">(2017) Second Place (CUHK team) of the 4th Student Challenge in the 32nd Annual Meeting of the American Society for Precision Engineering (ASPE 2017) [@Award](/awards/ASPE 2017.pdf){:target="_blank"} </p></li>
+  <li><p class="txt">(2016) Second Prize of Life Sciences Group in the 2nd Hong Kong University Student Innovation and Entrepreneurship Competition [@Award](/awards/HK 2016.pdf){:target="_blank"} </p></li>
+  <li><p class="txt">(2015) Merit Award of Mechanics & Control Systems Group in the 1st Hong Kong University Student Innovation and Entrepreneurship Competition </p></li>
+  <li><p class="txt">(2015) Postgraduate Individual Merit of Professor Charles K. Kao Student Creativity Awards [@Award](/awards/PCKKSCA 2015.pdf){:target="_blank"} </p></li>
+  <li><p class="txt">(2012) Best System Control Award and Excellent Team Culture Award (THU team) in International Aerial Robotic Competition (IARC 2012) [@Award](/awards/IARC6.pdf){:target="_blank"} </p></li>
 </ul>
 </div>
-{% endif %}
 
 <!--
 {% if site.data.people %}
