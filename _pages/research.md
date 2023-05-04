@@ -78,7 +78,9 @@ img {
 </div>
 
 <div class="jumbotron">
+<div class="col-md-12 col-sm-12">
 <h4>Dynamic-tunable Nanopositioner for Parallel Nanomanufacturing</h4>
+</div>
 <div class="row align-items-center">
 <div class="col-md-8 col-sm-12">
 
@@ -92,7 +94,9 @@ img {
 </div>
 
 <div class="jumbotron">
+<div class="col-md-12 col-sm-12">
 <h4>High-speed Oscillating Blade Microtome</h4>
+</div>
 <div class="row align-items-center">
 <div class="col-md-9 col-sm-12">
 
