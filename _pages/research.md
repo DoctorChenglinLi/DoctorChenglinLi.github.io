@@ -6,9 +6,6 @@ permalink: /research/
 ---
 
 <style>
-h4 {
-  text-align:center;
-}
 .col-md-3, .col-md-4, .col-md-8 {
   margin-top:10px;
   margin-bottom:10px;
