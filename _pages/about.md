@@ -92,18 +92,6 @@ p.txt {
 {% endif %}
 -->
 
-{% if site.data.awards %}
-<div class="jumbotron">
-  <h4>Honors and Awards</h4>
-<ul>
-{% for award in site.data.awards %} 
-  <li><p class="txt">{{ award.name }}
-  {% if award.url %}<a href="{{ site.url }}{{ site.baseurl }}/awards/{{ award.url }}" target="_blank">@Award</a>{% endif %}</p></li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
-
 <!--
 {% if site.data.people %}
 <div class="jumbotron">
@@ -134,6 +122,18 @@ p.txt {
 <ul>
 {% for journal in site.data.journals %}
   <li><a href="{{ journal.url }}" target="_blank">{{ journal.name }}</a></li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
+
+{% if site.data.awards %}
+<div class="jumbotron">
+  <h4>Honors and Awards</h4>
+<ul>
+{% for award in site.data.awards %} 
+  <li><p class="txt">{{ award.name }}
+  {% if award.url %}<a href="{{ site.url }}{{ site.baseurl }}/awards/{{ award.url }}" target="_blank">@Award</a>{% endif %}</p></li>
 {% endfor %}
 </ul>
 </div>
