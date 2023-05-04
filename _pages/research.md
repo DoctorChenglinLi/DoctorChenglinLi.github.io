@@ -13,7 +13,6 @@ permalink: /research/
   display:block;
   overflow:hidden;
   display:table-cell;
-  text-align:center;
   vertical-align:middle;
   border-radius:20px;
   height:auto;
