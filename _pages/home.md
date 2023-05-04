@@ -15,19 +15,17 @@ It also helps us to understand the fundamental principles that govern the behavi
 Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
 -->
 
-<!--
+### About Me
+
+I am currently working as a Research Associate in the [Multiscale Precision Instrumentation Laboratory](https://www.mpil.mae.cuhk.edu.hk/){:target="_blank"} (MPIL) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/){:target="_blank"} (CUHK). I obtained my undergraduate degree in [Mechanical Engineering](https://www.me.tsinghua.edu.cn/en/){:target="_blank"} from [Tsinghua University](https://www.tsinghua.edu.cn/en/){:target="_blank"} (THU) in 2013 and my Ph.D. degree in the [Department of Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/){:target="_blank"} (MAE) at CUHK under the guidance of [Prof. Chen Shih-Chi](https://www4.mae.cuhk.edu.hk/peoples/chen-shih-chi-2/){:target="_blank"} in 2019.
+
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/R2R.jpg" width="100%"/><br/>
+Precision multi-layer roll-to-roll printing system. <br/>
+Li C., Design of a precision multi-layer roll-to-roll printing system. <i>Precis. Eng.</i> (2020)
 </center>
 </div>
 </div>
 <br/>
--->
-
-### About Me
-
-I am currently working as a Research Associate in the [Multiscale Precision Instrumentation Laboratory](https://www.mpil.mae.cuhk.edu.hk/){:target="_blank"} (MPIL) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/){:target="_blank"} (CUHK). I obtained my undergraduate degree in [Mechanical Engineering](https://www.me.tsinghua.edu.cn/en/){:target="_blank"} from [Tsinghua University](https://www.tsinghua.edu.cn/en/){:target="_blank"} (THU) in 2013 and my Ph.D. degree in the [Department of Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/){:target="_blank"} (MAE) at CUHK under the guidance of [Prof. Chen Shih-Chi](https://www4.mae.cuhk.edu.hk/peoples/chen-shih-chi-2/){:target="_blank"} in 2019.
