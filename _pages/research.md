@@ -57,8 +57,8 @@ iframe {
 
 </div>
 <div class="row justify-content-center">
-<div class="col-md-8 col-sm-12 " style="background-color:white;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/DLPC.png" width="100%" style="display: block; margin: auto;"/>
+<div class="col-md-8 col-sm-12 " style="background-color:white; display: table-cell; vertical-align: middle;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/DLPC.png" width="100%"/>
 </div>
 </div>
 </div>
