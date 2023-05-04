@@ -87,10 +87,8 @@ p.txt {
 <ul>
 {% for award in site.data.awards %} 
   <li><p class="txt">{{ award.name }}
-  <a href="{{ site.url }}{{ site.baseurl }}/awards/{{ award.file }}" target="_blank">@Award</a></p></li>
+  {% if award.url %}<a href="{{ site.url }}{{ site.baseurl }}/awards/{{ award.url }}" target="_blank">@Award</a></p></li>{% endif %}
 {% endfor %}
-  1. <p class="txt">S. Chen, <u>C. Li</u>, and J. Wang, "Method and Apparatus for Dynamic Tuning", *U.S. Patent*, No. 9,527,733, Dec 27th, 2016.
-<a href="{{ site.url }}{{ site.baseurl }}/awards/IARC6.pdf" target="_blank">@Award</a></p>
 </ul>
 </div>
 {% endif %}
