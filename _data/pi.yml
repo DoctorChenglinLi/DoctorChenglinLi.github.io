@@ -8,14 +8,14 @@
   cv: cv/cv.pdf
   # Change the number below to the number of "educations" you have (up to 6)
   number_educ: 2
-  education1: "(2019) Ph.D. Mechanical Engineering, The Chinese University of Hong Kong"
-  education2: "(2013) B.S. Mechanical Engineering, Tsinghua University"
+  education1: "(2019) Ph.D., Mechanical Engineering, The Chinese University of Hong Kong"
+  education2: "(2013) B.S., Mechanical Engineering, Tsinghua University"
   # education3: 
   # education4: 
   # education5: 
   # education6: 
-  education1short: (2019) Ph.D. Mechanical Engineering, CUHK
-  education2short: (2013) B.S. Mechanical Engineering, THU
+  education1short: (2019) Ph.D., Mechanical Engineering, CUHK
+  education2short: (2013) B.S., Mechanical Engineering, THU
   # education3short: 
   # education4short: 
   # education5short: 
