@@ -7,6 +7,7 @@ permalink: /about/
 
 <style>
 p.txt {
+  line-height: 1;
   text-align: justify;
 }
 </style>
@@ -70,7 +71,13 @@ p.txt {
 
 <div class="jumbotron">
   <h4>Research Interests</h4>
-  <p class="txt">Precision Engineering, Compliant Mechanism, Design Methodology, Micro and Nano-Manufacturing, Metrology</p>
+<ul>
+  <li> Precision Engineering </li>
+  <li> Compliant Mechanism </li>
+  <li> Design Methodology </li>
+  <li> Micro and Nano-Manufacturing </li>
+  <li> Metrology </li>
+</ul>
 </div>
 
 <!--
