@@ -74,7 +74,7 @@ p.txt {
   <h4>Grants</h4>
 <ul>
 {% for grant in site.data.grants %}
- <li> {{ grant.name }} </li>
+  <li> {{ grant.name }} </li>
 {% endfor %}
 </ul>
 </div>
@@ -83,11 +83,11 @@ p.txt {
 
 {% if site.data.awards %}
 <div class="jumbotron">
-  <h4>Awards</h4>
+  <h4>Honors and Awards</h4>
 <ul>
 {% for award in site.data.awards %} 
   <li><p class="txt">{{ award.name }}
-  {% if award.url %}<a href="{{ site.url }}{{ site.baseurl }}/awards/{{ award.url }}" target="_blank">@Award</a></p></li>{% endif %}
+  {% if award.url %}<a href="{{ site.url }}{{ site.baseurl }}/awards/{{ award.url }}" target="_blank">@Award</a>{% endif %}</p></li>
 {% endfor %}
 </ul>
 </div>
