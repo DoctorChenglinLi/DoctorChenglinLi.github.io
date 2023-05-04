@@ -11,6 +11,8 @@ h4 {
 }
 img {
   border-radius:10px;
+  display: block;
+  margin: auto;
 }
 .col-md-3 {
   margin-top:10px;
