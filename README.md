@@ -1,3 +1,15 @@
+### Chenglin's Home Page
+
+[https://doctorchenglinli.github.io/](https://doctorchenglinli.github.io/){:target="_blank"}
+
+### License
+
+Open sourced under the [MIT license](LICENSE){:target="_blank"}
+
+### Acknowledgment
+
+Website template by [Dr. Spencer Bryngelson](https://github.com/sbryngelson/academic-website-template){:target="_blank"}
+
 # A website template for academics
 
 ## Users
